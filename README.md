@@ -1,2 +1,2 @@
-# ZZDBK
-记录文摘和心得
+#The First One
+写一写python的代码，练练手
